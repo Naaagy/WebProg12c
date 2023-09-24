@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 800px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.box {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.elso {
+    display: none;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.masodik {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+}
+.harmadik {
+    display: none;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}

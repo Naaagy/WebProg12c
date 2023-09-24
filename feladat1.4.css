@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 500px;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+#elso {
+    background-color: green;
+    flex: 1;
+}
+#harmadik {
+    background-color: yellow;
+    flex: 2;
+}
+#masodik {
+    background-color: purple;
+    flex: 1;
+}
